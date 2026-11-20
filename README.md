@@ -73,7 +73,7 @@ de entorno configuradas en el panel de la plataforma:
    se reemplazaría por migraciones (Flyway/Liquibase) con `validate`.
 
 ## Cómo compilar y ejecutar
-1. Clonar: `git clone https://github.com/USUARIO/apellido-post1-u12.git`
+1. Clonar: `git clone https://github.com/dewitt12/kheer-post1-u12.git`
 2. Construir la imagen: `docker build -t mi-spring-app:local .`
 3. Perfil dev (valores por defecto):
    `docker run -p 8080:8080 mi-spring-app:local`
